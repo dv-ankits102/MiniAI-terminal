@@ -1,0 +1,4 @@
+OLLAMA_URL = "http://localhost:11434"
+MODEL_NAME = "llama3.2:3b"
+APP_NAME = "MiniAI Search"
+VERSION = "0.1.0"
